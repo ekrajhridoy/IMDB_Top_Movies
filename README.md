@@ -1,4 +1,4 @@
-# IMDB_Top_Movies
+# IMDB_Top_250_Movies
 This dataset contains information about top-rated movies, including their titles, IMDb ratings, vote counts, release years, and watch times. The data was scraped using Selenium from IMDb and later cleaned using Pandas.
 
 During preprocessing:
