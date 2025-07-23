@@ -12,3 +12,4 @@ Unnecessary columns were dropped
 Parentheses were removed from vote counts
 
 This cleaned dataset is now ready for data analysis and visualization — perfect for exploring trends in movie ratings, durations, and viewer engagement!
+Happy Coding!
